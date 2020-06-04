@@ -14,7 +14,7 @@
     gap: 2rem;
     padding: 3rem;
     font-family: 'Josefin Sans', sans-serif;
-    color: rgb(31, 31, 31);
+    color: #0D001A;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -30,10 +30,10 @@
     background-color: white;
   }
   .searchBar{
-    background-image: url('./ressource/c\ l\ i\ m\ b\ \ e\ v\ e\ r\ y\ \ m\ o\ u\ n\ t\ a\ i\ n\ \(2\).png');
+    background-image: url('./ressource/background.png');
     background-repeat: no-repeat;
     height: 400px; 
-    background-position: center; /* Center the image */
+    background-position: center; 
     background-size: cover; 
     align-items: center;
     width: 100vw;
@@ -45,33 +45,41 @@
       font-weight: 700;
       letter-spacing: 6px;
       padding: 10px;
-      color: rgb(31, 31, 31);
+      color: #0D001A;
     }
     input{
-      height: 35px;
+      height: 45px;
       font-size: 20px;
       width: 300px;
       font-family: 'Montserrat', sans-serif;
+      border-radius: 100px;
     }
     button{
       width: 7rem;
-      height: 40px;
+      height: 50px;
       margin: 10px;
       font-size: 20px;
       border: none;
-      background-color: rgb(31, 31, 31);
+      background-color: #0D001A;
       cursor: pointer;
-      border-radius: 15px;
+      border-radius: 100px;
       color: white;
       font-family: 'Montserrat', sans-serif;
+      @media (max-width: 440px){
+        background: rgb(141, 111, 172);
+        color: white;
+      }
     }
     button:hover{
-      border: solid 2px rgb(31, 31, 31);
-      color: rgb(31, 31, 31);
+      border: solid 2px #0D001A;
+      color: #0D001A;
       background: none;
+      @media (max-width: 440px){
+        background: white;
+        color: #0D001A;
+        
+      }
     }
   }
 }
-@media (min-width: 550px){
 
-}

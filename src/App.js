@@ -17,7 +17,7 @@ class App extends React.Component{
     <div className='App'>
       <div className='searchBar'>
         <img src={logo} alt='logo'></img>
-        <h1>What should I do in </h1>
+        <h1>Favorite Spots</h1>
         <SearchBar onResult={venues => this.setState({venues: venues})} />
       </div>
       <div className='container'>
