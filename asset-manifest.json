@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/eventfinder/static/css/main.35cbcbea.chunk.css",
+    "main.js": "/eventfinder/static/js/main.fc811052.chunk.js",
+    "main.js.map": "/eventfinder/static/js/main.fc811052.chunk.js.map",
+    "runtime-main.js": "/eventfinder/static/js/runtime-main.f2b3ad44.js",
+    "runtime-main.js.map": "/eventfinder/static/js/runtime-main.f2b3ad44.js.map",
+    "static/js/2.a04a7300.chunk.js": "/eventfinder/static/js/2.a04a7300.chunk.js",
+    "static/js/2.a04a7300.chunk.js.map": "/eventfinder/static/js/2.a04a7300.chunk.js.map",
+    "index.html": "/eventfinder/index.html",
+    "precache-manifest.29356fc3789fcc64edc644dc89e710eb.js": "/eventfinder/precache-manifest.29356fc3789fcc64edc644dc89e710eb.js",
+    "service-worker.js": "/eventfinder/service-worker.js",
+    "static/css/main.35cbcbea.chunk.css.map": "/eventfinder/static/css/main.35cbcbea.chunk.css.map",
+    "static/js/2.a04a7300.chunk.js.LICENSE.txt": "/eventfinder/static/js/2.a04a7300.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/eventfinder/static/media/background.61dd1885.png",
+    "static/media/logo.svg": "/eventfinder/static/media/logo.3be072e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2b3ad44.js",
+    "static/js/2.a04a7300.chunk.js",
+    "static/css/main.35cbcbea.chunk.css",
+    "static/js/main.fc811052.chunk.js"
+  ]
+}
