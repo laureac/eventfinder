@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cdac6179da5b994ee701ac37a5feafc",
+    "revision": "cdd243d72b63c5f10c919f2bf1c5cca3",
     "url": "/eventfinder/index.html"
   },
   {
-    "revision": "1a51a27411c1adea825f",
+    "revision": "cb8e343d5333c4e5da34",
     "url": "/eventfinder/static/css/main.9942242c.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eventfinder/static/js/2.204daab8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a51a27411c1adea825f",
-    "url": "/eventfinder/static/js/main.654a27e0.chunk.js"
+    "revision": "cb8e343d5333c4e5da34",
+    "url": "/eventfinder/static/js/main.21bd7a2f.chunk.js"
   },
   {
     "revision": "94e1694c3e9bad33b8ef",
     "url": "/eventfinder/static/js/runtime-main.f2b3ad44.js"
   },
   {
-    "revision": "58a062dff46639ee3c886da7f65082c0",
-    "url": "/eventfinder/static/media/brisbane.58a062df.jpg"
+    "revision": "aba4fd9074eabeb6ac104fd1ab46c6f6",
+    "url": "/eventfinder/static/media/brisbane.aba4fd90.jpg"
   },
   {
     "revision": "f47a51b80e28baff4a000e2963f48cae",
