@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ee1f1871282932d9896efef2d00c88e",
+    "revision": "c8a2baa703adbc26a3d2ac177b318427",
     "url": "/eventfinder/index.html"
   },
   {
-    "revision": "d1d20f38e024bf823a2c",
+    "revision": "6f7f3c337f62767e3f8d",
     "url": "/eventfinder/static/css/main.9942242c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/eventfinder/static/js/2.204daab8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1d20f38e024bf823a2c",
-    "url": "/eventfinder/static/js/main.0848e29d.chunk.js"
+    "revision": "6f7f3c337f62767e3f8d",
+    "url": "/eventfinder/static/js/main.71f7ac24.chunk.js"
   },
   {
     "revision": "94e1694c3e9bad33b8ef",

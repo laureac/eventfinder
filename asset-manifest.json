@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/eventfinder/static/css/main.9942242c.chunk.css",
-    "main.js": "/eventfinder/static/js/main.0848e29d.chunk.js",
-    "main.js.map": "/eventfinder/static/js/main.0848e29d.chunk.js.map",
+    "main.js": "/eventfinder/static/js/main.71f7ac24.chunk.js",
+    "main.js.map": "/eventfinder/static/js/main.71f7ac24.chunk.js.map",
     "runtime-main.js": "/eventfinder/static/js/runtime-main.f2b3ad44.js",
     "runtime-main.js.map": "/eventfinder/static/js/runtime-main.f2b3ad44.js.map",
     "static/js/2.204daab8.chunk.js": "/eventfinder/static/js/2.204daab8.chunk.js",
     "static/js/2.204daab8.chunk.js.map": "/eventfinder/static/js/2.204daab8.chunk.js.map",
     "index.html": "/eventfinder/index.html",
-    "precache-manifest.8c81208eeac1c8e91c0f8a1aad01b9b8.js": "/eventfinder/precache-manifest.8c81208eeac1c8e91c0f8a1aad01b9b8.js",
+    "precache-manifest.8553ff5f70a8d4bb2932eb498377c264.js": "/eventfinder/precache-manifest.8553ff5f70a8d4bb2932eb498377c264.js",
     "service-worker.js": "/eventfinder/service-worker.js",
     "static/css/main.9942242c.chunk.css.map": "/eventfinder/static/css/main.9942242c.chunk.css.map",
     "static/js/2.204daab8.chunk.js.LICENSE.txt": "/eventfinder/static/js/2.204daab8.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f2b3ad44.js",
     "static/js/2.204daab8.chunk.js",
     "static/css/main.9942242c.chunk.css",
-    "static/js/main.0848e29d.chunk.js"
+    "static/js/main.71f7ac24.chunk.js"
   ]
 }
