@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/eventfinder/static/css/main.9942242c.chunk.css",
-    "main.js": "/eventfinder/static/js/main.71f7ac24.chunk.js",
-    "main.js.map": "/eventfinder/static/js/main.71f7ac24.chunk.js.map",
+    "main.js": "/eventfinder/static/js/main.654a27e0.chunk.js",
+    "main.js.map": "/eventfinder/static/js/main.654a27e0.chunk.js.map",
     "runtime-main.js": "/eventfinder/static/js/runtime-main.f2b3ad44.js",
     "runtime-main.js.map": "/eventfinder/static/js/runtime-main.f2b3ad44.js.map",
     "static/js/2.204daab8.chunk.js": "/eventfinder/static/js/2.204daab8.chunk.js",
     "static/js/2.204daab8.chunk.js.map": "/eventfinder/static/js/2.204daab8.chunk.js.map",
     "index.html": "/eventfinder/index.html",
-    "precache-manifest.8553ff5f70a8d4bb2932eb498377c264.js": "/eventfinder/precache-manifest.8553ff5f70a8d4bb2932eb498377c264.js",
+    "precache-manifest.730e85db3597a4d7f4f5b1b8afe2a7bb.js": "/eventfinder/precache-manifest.730e85db3597a4d7f4f5b1b8afe2a7bb.js",
     "service-worker.js": "/eventfinder/service-worker.js",
     "static/css/main.9942242c.chunk.css.map": "/eventfinder/static/css/main.9942242c.chunk.css.map",
     "static/js/2.204daab8.chunk.js.LICENSE.txt": "/eventfinder/static/js/2.204daab8.chunk.js.LICENSE.txt",
-    "static/media/austin.webp": "/eventfinder/static/media/austin.a7aadf33.webp",
-    "static/media/beijing.webp": "/eventfinder/static/media/beijing.209dcd10.webp",
-    "static/media/dallas.webp": "/eventfinder/static/media/dallas.2bc38187.webp",
-    "static/media/newyork.webp": "/eventfinder/static/media/newyork.ebb81965.webp",
-    "static/media/sanfrancisco.webp": "/eventfinder/static/media/sanfrancisco.b58ad59e.webp"
+    "static/media/brisbane.jpg": "/eventfinder/static/media/brisbane.58a062df.jpg",
+    "static/media/gold-coast.jpg": "/eventfinder/static/media/gold-coast.f47a51b8.jpg",
+    "static/media/melbourne.jpg": "/eventfinder/static/media/melbourne.195f1586.jpg",
+    "static/media/sunshinecoast-location.jpg": "/eventfinder/static/media/sunshinecoast-location.1511a8e0.jpg",
+    "static/media/sydney.jpg": "/eventfinder/static/media/sydney.2f9d344a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f2b3ad44.js",
     "static/js/2.204daab8.chunk.js",
     "static/css/main.9942242c.chunk.css",
-    "static/js/main.71f7ac24.chunk.js"
+    "static/js/main.654a27e0.chunk.js"
   ]
 }
